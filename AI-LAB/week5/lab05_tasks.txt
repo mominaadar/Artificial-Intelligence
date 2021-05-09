@@ -1,0 +1,12 @@
+	
+	LAB TASK # 05 !!!
+
+1. Use BFS code to implement Uniform Cost Search Algorithm.
+	-add extra check to explore only that node which has minimum cost
+	-add extra list named as "visite_node" to avoid the same node visiting repeatedly.
+
+2. Use DFS code to implement Depth-Limited First Search and Iterative Deepening First Search
+	-write a function to find depth of given node
+	-use this function for depth limited 
+
+
