@@ -1,0 +1,27 @@
+
+ -------- PART A ---------
+
+ Initial state: condition/state of environment before the first action taken by agent.
+ 
+ Operators: operators are agents that carry out some action based on their environment.
+ 
+ Goal test function: it is like a final testing function used to test whether the goal state has been achieved or not.
+ 
+ Path cost function: it calculates the total cost of paths for example path of vacuum cleaner moving from A to B to C and back to A.
+ 
+
+ -------- PART B ---------
+ 
+ BFS would be better approach as it searches on the breadth level.
+ 
+ 
+ -------- PART E ---------
+ 
+ The performance measure in this task increases as we are adding the path cost in it as well.
+ 
+ 
+ -------- PART F ---------
+ 
+ The performance would not be good as per my logic the agent has to visit all the nodes and if the state space is very large and the agent has to visit every node then this is not an optimal situation and the performance would suffer.
+ 
+ 
